@@ -1,6 +1,7 @@
 {
 	"name": "@flazeiguess/star-ratings",
 	"description": "Rate your music out of 5 stars (interactive) - TidaLuna port of spicetify-star-ratings",
+	"image": "https://raw.githubusercontent.com/FlazeIGuess/tidaluna-plugins/master/assets/screenshot.png",
 	"author": {
 		"name": "Flaze",
 		"url": "https://github.com/FlazeIGuess"
